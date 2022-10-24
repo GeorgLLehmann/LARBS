@@ -8,7 +8,7 @@
 
 dotfilesrepo="https://github.com/GeorgLLehmann/voidrice.git"
 progsfile="https://raw.githubusercontent.com/GeorgLLehmann/LARBS/master/progs.csv"
-aurhelper="yay"
+aurhelper="paru"
 repobranch="master"
 
 ### FUNCTIONS ###
